@@ -3,7 +3,7 @@ Lima,Mercy Health Thrift,,0.002,Tuesday,1130,1330,2,1,First Tuesday of each mont
 Lima,Habitat For Humanity,,0.002,Thursday,1030,1230,2,1,First Thursday of each month
 Lima,Our Daily Bread,,0.002,Tuesday,1130,1300,2,3,Third Tuesday of each month
 Lima,St. Mark’s Methodist,Community Meal,0.002,Wednesday,1630,1830,2,3,Third Wednesday of each month
-St. Marys,Agape Minstries,,0.002,Thursday,1200,1400,2,1,First Wednesday of each month
+St. Marys,Agape Minstries,,0.001,Thursday,1200,1400,2,1,First Wednesday of each month
 Lima,Christian Corner Community Center,,0.002,Wednesday,900,1100,2,1,First Wednesday of each month
 Alger,Community Center,Food Commodities,0.002,Wednesday,900,1100,2,3,Wednesday after the third Tuesday each month (not always the third Wednesday of the month)
 Kenton,Seton Hall,,0.002,Tuesday,1130,1330,2,4,Fourth Tuesday of each month
@@ -19,3 +19,6 @@ Delphos,Public Library,,0.002,*,900,1800,2,*,
 Ada,Public Library,,0.002,*,900,1800,2,*,
 Mount Victory,Public Library,,0.002,*,900,1800,2,*,
 Forest,Public Library,,0.002,*,900,1800,2,*,
+Marion,Grace Clinics,,1.002,,901,1801,3,*,
+Upper Sandusky,Wyandot Events ,,2.002,,902,1802,4,*,
+St. Marys,Senior Center,,3.002,,903,1803,5,*,
