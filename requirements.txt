@@ -2,3 +2,4 @@ python-slugify
 unicode
 PyQt6
 folium
+polars

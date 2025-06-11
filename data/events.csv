@@ -1,0 +1,32 @@
+city,site,event,attendanceRate,dow,startTime,endTime,EventDuration,wom,Notes
+Lima,Mercy Health Thrift,,0.002,Tuesday,1130,1330,2,1,First Tuesday of each month
+Lima,Habitat For Humanity,,0.002,Thursday,1030,1230,2,1,First Thursday of each month
+Lima,Our Daily Bread,,0.002,Tuesday,1130,1300,2,3,Third Tuesday of each month
+Lima,St. Mark’s Methodist,Community Meal,0.002,Wednesday,1630,1830,2,3,Third Wednesday of each month
+St. Marys,Agape Minstries,,0.001,Thursday,1200,1400,2,1,First Wednesday of each month
+Lima,Christian Corner Community Center,,0.002,Wednesday,900,1100,2,1,First Wednesday of each month
+Alger,Community Center,Food Commodities,0.002,Wednesday,900,1100,2,3,Wednesday after the third Tuesday each month (not always the third Wednesday of the month)
+Kenton,Seton Hall,,0.002,Tuesday,1130,1330,2,4,Fourth Tuesday of each month
+Dunkirk,HN Community Center,Community Meal,0.002,Tuesday,1630,1800,1.5,4,Fourth Wednesday of each month
+Kenton,Hardincrest,,0.002,Thursday,900,1100,2,3,Third Thursday of each month
+Kenton,YMCA,,0.002,Wednesday,900,1100,2,4,Fourth Wednesday every month
+Alger,Community Center ,Community Dinner,0.002,Wednesday,1630,1830,2,4,Fourth Wednesday of each month
+Bluffton,Bluffton Public Library,,0.002,Thursday,900,1100,2,*,Bluffton Public Library
+St. Marys,Public Library,,0.002,*,900,1800,2,*,
+Elida,Public Library,,0.002,*,900,1800,2,*,
+Cairo,Public Library,,0.002,*,900,1800,2,*,
+Delphos,Public Library,,0.002,*,900,1800,2,*,
+Ada,Public Library,,0.002,*,900,1800,2,*,
+Mount Victory,Public Library,,0.002,*,900,1800,2,*,
+Forest,Public Library,,0.002,*,900,1800,2,*,
+Marion,Grace Clinics,,0.002,*,900,1800,2,*,
+Upper Sandusky,Wyandot Events ,,0.002,*,900,1800,2,*,
+Saint Marys,Senior Center,,0.002,*,900,1800,2,*,
+Columbus Grove,Public Library,,0.002,*,900,1800,2,*,
+Continental,Public Library,,0.002,*,900,1800,2,*,
+Fort Jennings,Public Library,,0.002,*,900,1800,2,*,
+Kalida,Public Library,,0.002,*,900,1800,2,*,
+Leipsic,Public Library,,0.002,*,900,1800,2,*,
+Ottawa,Public Library,,0.002,*,900,1800,2,*,
+Ottoville,Public Library,,0.002,*,900,1800,2,*,
+Pandora,Public Library,,0.002,*,900,1800,2,*,
