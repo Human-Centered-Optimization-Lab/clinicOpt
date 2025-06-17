@@ -1,50 +1,25 @@
-siteId,siteName,city,siteType,dow,startTime,endTime,EventDuration,wom,Notes
-18,Public Library,Ada,Library,*,900,1800,2,*,
-7,Food Commodities,Alger,Food bank,Wednesday,900,1100,2,3,Wednesday after the third Tuesday each month (not always the third Wednesday of the month)
-12,Community Dinner,Alger,"Charitable Meal
-",Wednesday,1630,1830,2,4,Fourth Wednesday of each month
-13,Bluffton Public Library,Bluffton,Library,Thursday,900,1100,2,*,Bluffton Public Library
-16,Public Library,Cairo,Library,*,900,1800,2,*,
-24,Public Library,Columbus Grove,Library,*,900,1800,2,*,
-25,Public Library,Continental,Library,*,900,1800,2,*,
-17,Public Library,Delphos,Library,*,900,1800,2,*,
-9,HN Community Center Community Meal,Dunkirk,"Charitable Meal
-",Tuesday,1630,1800,1.5,4,Fourth Wednesday of each month
-15,Public Library,Elida,Library,*,900,1800,2,*,
-20,Public Library,Forest,Library,*,900,1800,2,*,
-26,Public Library,Fort Jennings,Library,*,900,1800,2,*,
-27,Public Library,Kalida,Library,*,900,1800,2,*,
-8,Seton Hall,Kenton,Senior community,Tuesday,1130,1330,2,4,Fourth Tuesday of each month
-10,Hardincrest,Kenton,"Senior community
-",Thursday,900,1100,2,3,Third Thursday of each month
-11,YMCA,Kenton,Gym,Wednesday,900,1100,2,4,Fourth Wednesday every month
-28,Public Library,Leipsic,Library,*,900,1800,2,*,
-1,Mercy Health Thrift,Lima,Thrift store,Tuesday,1130,1330,2,1,First Tuesday of each month
-2,Habitat For Humanity,Lima,Thrift store,Thursday,1030,1230,2,1,First Thursday of each month
-3,Our Daily Bread,Lima,"Charitable Meal
-",Tuesday,1130,1300,2,3,Third Tuesday of each month
-4,St. Mark’s Methodist Community Meal,Lima,"Charitable Meal
-",Wednesday,1630,1830,2,3,Third Wednesday of each month
-6,Christian Corner Community Center,Lima,Food bank,Wednesday,900,1100,2,1,First Wednesday of each month
-21,Grace Clinics,Marion,Hospital,*,900,1800,2,*,
-19,Public Library,Mount Victory,Library,*,900,1800,2,*,
-29,Public Library,Ottawa,Library,*,900,1800,2,*,
-30,Public Library,Ottoville,Library,*,900,1800,2,*,
-31,Public Library,Pandora,Library,*,900,1800,2,*,
-5,Agape Minstries,Saint Marys,Food bank;Thrift store,Thursday,1200,1400,2,1,First Wednesday of each month
-14,Public Library,Saint Marys,Library,*,900,1800,2,*,
-23,Senior Center,Saint Marys,Senior community,*,900,1800,2,*,
-22,Wyandot Events ,Upper Sandusky,Community center,*,900,1800,2,*,
-23,Library,Lima,Library,,,,,,
-24,Kenton Seton,Kenton,Senior community,,,,,,
-26,Alger Food Pantry,Alger,Food bank,,,,,,
-27,Hardin County Fairgrounds,Kenton,Special event,,,,,,
-28,DJ Kirk ,Dunkirk,"Charitable Meal
-",,,,,,
-29,AAA Lima,Lima,Special event,,,,,,
-30,Allen County COA Medicare Day,Lima,Special event,,,,,,
-31,Christian Corner,Lima,Food bank,,,,,,
-32,Alger Library,Alger,Library,,,,,,
-33,Delphos Senior Center,Delphos,Senior community,,,,,,
-34,Augalize County COA,Saint Marys,Special event,,,,,,
-35,Wapak UCC,Wapakoneta,Church,,,,,,
+siteId,siteName,siteType,city
+0,Mercy Thrift Store,Thrift store,Lima
+1,Lima Library,Library,Lima
+2,Kenton Seton,Senior community,Kenton
+3,Bluffton Library,Library,Bluffton
+4,Lima ODB,Charitable Meal,Lima
+5,Alger Food Pantry,Food pantry,Alger
+6,Saint Marks UMC,Church,Lima
+7,Dunkirk Dinner,Charitable Meal,Dunkirk
+8,HardinCrest ,Senior community,Kenton
+9,Alger Dinner,Charitable Meal,Alger
+10,Agape,Food pantry;Thrift store,Saint Marys
+11,DJ Kirk ,Charitable Meal,Dunkirk
+12,Kenton YMCA,Gym,Kenton
+13,Apape,Food pantry;Thrift store,Saint Marys
+14,Alger Food Pantry,Food Pantry,Alger
+15,DJ Kirk,Charitable Meal,Dunkirk
+16,YMCA,Gym,Kenton
+17,Christian Corner,Food Bank,Lima
+18,HardinCrest,Senior community,Kenton
+19,HardinCrest,Food pantry;Thrift store,Kenton
+20,Seton Kenton,Senior community,Kenton
+21,Delphos Senior Center,Senior community,Delphos
+22,Restore,Thrift store,Lima
+23,Wapak UCC,Church,Wapakoneta
