@@ -1,40 +1,61 @@
 siteName,siteType,city
-Mercy Thrift Store,thrift store,Lima
-Lima Library,library,Lima
-Kenton Seton,senior community,Kenton
-Bluffton Library,library,Bluffton
-Lima ODB,charitable meal,Lima
-Alger Food Pantry,food pantry,Alger
-Saint Marks UMC,church,Lima
-Dunkirk Dinner,charitable meal,Dunkirk
-HardinCrest ,senior community,Kenton
 Alger Dinner,charitable meal,Alger
-Agape,food pantry;thrift store,Saint Marys
-DJ Kirk ,charitable meal,Dunkirk
-Kenton YMCA,gym,Kenton
-Apape,food pantry;thrift store,Saint Marys
 DJ Kirk,charitable meal,Dunkirk
-YMCA,gym,Kenton
-Christian Corner,food bank,Lima
-HardinCrest,senior community,Kenton
-HardinCrest,food pantry;thrift store,Kenton
-Seton Kenton,senior community,Kenton
-Delphos Senior Center,senior community,Delphos
-Restore,thrift store,Lima
+DJ Kirk ,charitable meal,Dunkirk
+Dunkirk Dinner,charitable meal,Dunkirk
+Lima ODB,charitable meal,Lima
+Saint Marks UMC,church,Lima
 Wapak UCC,church,Wapakoneta
-Public Library,library,Ada
-Public Library,library,Saint Marys
-Public Library,library,Elida
-Public Library,library,Cairo
-Public Library,library,Delphos
-Public Library,library,Mount Victory
-Public Library,library,Forest
 Grace Clinics,clinic,Marion
+Christian Corner,food bank,Lima
+Alger Food Pantry,food pantry,Alger
+Agape,food pantry;thrift store,Saint Marys
+Apape,food pantry;thrift store,Saint Marys
+HardinCrest,food pantry;thrift store,Kenton
+Kenton YMCA,gym,Kenton
+YMCA,gym,Kenton
+Bluffton Library,library,Bluffton
+Lima Library,library,Lima
+Public Library,library,Ada
+Public Library,library,Alger
+Public Library,library,Cairo
+Public Library,library,Caledonia
+Public Library,library,Carey
 Public Library,library,Columbus Grove
 Public Library,library,Continental
+Public Library,library,Delphos
+Public Library,library,Elida
+Public Library,library,Forest
 Public Library,library,Fort Jennings
 Public Library,library,Kalida
 Public Library,library,Leipsic
+Public Library,library,Mount Victory
 Public Library,library,Ottawa
 Public Library,library,Ottoville
 Public Library,library,Pandora
+Public Library,library,Saint Marys
+Public Library,library,Cridersville
+Public Library,library,Dunkirk
+Public Library,library,Glandorf
+Public Library,library,Kenton
+Public Library,library,La Rue
+Public Library,library,Leipsic
+Public Library,library,Lima
+Public Library,library,Marion
+Public Library,library,Minster
+Public Library,library,Nevada
+Public Library,library,New Bremen
+Public Library,library,New Knoxville
+Public Library,library,Prospect
+Public Library,library,Spencerville
+Public Library,library,Sycamore
+Public Library,library,Upper Sandusky
+Public Library,library,Wapakoneta
+Public Library,library,Waynesfield
+Delphos Senior Center,senior community,Delphos
+HardinCrest,senior community,Kenton
+HardinCrest ,senior community,Kenton
+Kenton Seton,senior community,Kenton
+Seton Kenton,senior community,Kenton
+Mercy Thrift Store,thrift store,Lima
+Restore,thrift store,Lima

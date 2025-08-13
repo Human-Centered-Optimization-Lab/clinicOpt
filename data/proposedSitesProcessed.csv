@@ -1,40 +1,61 @@
 ,siteName,siteType,city,minAtt,medAtt,maxAtt
-0,Mercy Thrift Store,thrift store,Lima,0.0,1.0,4.0
-1,Lima Library,library,Lima,3.0,3.0,3.0
-2,Kenton Seton,senior community,Kenton,0.0,4.0,5.0
-3,Bluffton Library,library,Bluffton,4.0,7.0,10.0
+0,Alger Dinner,charitable meal,Alger,1.0,3.0,5.0
+1,DJ Kirk,charitable meal,Dunkirk,3.0,3.0,3.0
+2,DJ Kirk ,charitable meal,Dunkirk,2.0,2.0,2.0
+3,Dunkirk Dinner,charitable meal,Dunkirk,3.0,3.0,7.0
 4,Lima ODB,charitable meal,Lima,2.0,3.0,4.0
-5,Alger Food Pantry,food pantry,Alger,2.0,4.0,6.0
-6,Saint Marks UMC,church,Lima,2.0,3.0,7.0
-7,Dunkirk Dinner,charitable meal,Dunkirk,3.0,3.0,7.0
-8,HardinCrest ,senior community,Kenton,2.0,2.0,3.0
-9,Alger Dinner,charitable meal,Alger,1.0,3.0,5.0
+5,Saint Marks UMC,church,Lima,2.0,3.0,7.0
+6,Wapak UCC,church,Wapakoneta,6.0,6.0,6.0
+7,Grace Clinics,clinic,Marion,0.0,3.0,10.0
+8,Christian Corner,food bank,Lima,0.0,6.0,10.0
+9,Alger Food Pantry,food pantry,Alger,2.0,4.0,6.0
 10,Agape,food pantry;thrift store,Saint Marys,0.0,0.0,6.0
-11,DJ Kirk ,charitable meal,Dunkirk,2.0,2.0,2.0
-12,Kenton YMCA,gym,Kenton,3.0,3.0,3.0
-13,Apape,food pantry;thrift store,Saint Marys,2.0,2.0,2.0
-14,DJ Kirk,charitable meal,Dunkirk,3.0,3.0,3.0
-15,YMCA,gym,Kenton,0.0,2.0,4.0
-16,Christian Corner,food bank,Lima,0.0,6.0,10.0
-17,HardinCrest,senior community,Kenton,2.0,3.0,5.0
-18,HardinCrest,food pantry;thrift store,Kenton,2.0,3.0,5.0
-19,Seton Kenton,senior community,Kenton,3.0,6.0,10.0
-20,Delphos Senior Center,senior community,Delphos,7.0,7.0,7.0
-21,Restore,thrift store,Lima,3.0,3.0,9.0
-22,Wapak UCC,church,Wapakoneta,6.0,6.0,6.0
-23,Public Library,library,Ada,3.0,6.0,10.0
-24,Public Library,library,Saint Marys,3.0,6.0,10.0
+11,Apape,food pantry;thrift store,Saint Marys,2.0,2.0,2.0
+12,HardinCrest,food pantry;thrift store,Kenton,2.0,3.0,5.0
+13,Kenton YMCA,gym,Kenton,3.0,3.0,3.0
+14,YMCA,gym,Kenton,0.0,2.0,4.0
+15,Bluffton Library,library,Bluffton,4.0,7.0,10.0
+16,Lima Library,library,Lima,3.0,3.0,3.0
+17,Public Library,library,Ada,3.0,6.0,10.0
+18,Public Library,library,Alger,3.0,6.0,10.0
+19,Public Library,library,Cairo,3.0,6.0,10.0
+20,Public Library,library,Caledonia,3.0,6.0,10.0
+21,Public Library,library,Carey,3.0,6.0,10.0
+22,Public Library,library,Columbus Grove,3.0,6.0,10.0
+23,Public Library,library,Continental,3.0,6.0,10.0
+24,Public Library,library,Delphos,3.0,6.0,10.0
 25,Public Library,library,Elida,3.0,6.0,10.0
-26,Public Library,library,Cairo,3.0,6.0,10.0
-27,Public Library,library,Delphos,3.0,6.0,10.0
-28,Public Library,library,Mount Victory,3.0,6.0,10.0
-29,Public Library,library,Forest,3.0,6.0,10.0
-30,Grace Clinics,clinic,Marion,0.0,3.0,10.0
-31,Public Library,library,Columbus Grove,3.0,6.0,10.0
-32,Public Library,library,Continental,3.0,6.0,10.0
-33,Public Library,library,Fort Jennings,3.0,6.0,10.0
-34,Public Library,library,Kalida,3.0,6.0,10.0
-35,Public Library,library,Leipsic,3.0,6.0,10.0
-36,Public Library,library,Ottawa,3.0,6.0,10.0
-37,Public Library,library,Ottoville,3.0,6.0,10.0
-38,Public Library,library,Pandora,3.0,6.0,10.0
+26,Public Library,library,Forest,3.0,6.0,10.0
+27,Public Library,library,Fort Jennings,3.0,6.0,10.0
+28,Public Library,library,Kalida,3.0,6.0,10.0
+29,Public Library,library,Leipsic,3.0,6.0,10.0
+30,Public Library,library,Mount Victory,3.0,6.0,10.0
+31,Public Library,library,Ottawa,3.0,6.0,10.0
+32,Public Library,library,Ottoville,3.0,6.0,10.0
+33,Public Library,library,Pandora,3.0,6.0,10.0
+34,Public Library,library,Saint Marys,3.0,6.0,10.0
+35,Public Library,library,Cridersville,3.0,6.0,10.0
+36,Public Library,library,Dunkirk,3.0,6.0,10.0
+37,Public Library,library,Glandorf,3.0,6.0,10.0
+38,Public Library,library,Kenton,3.0,6.0,10.0
+39,Public Library,library,La Rue,3.0,6.0,10.0
+40,Public Library,library,Leipsic,3.0,6.0,10.0
+41,Public Library,library,Lima,3.0,6.0,10.0
+42,Public Library,library,Marion,3.0,6.0,10.0
+43,Public Library,library,Minster,3.0,6.0,10.0
+44,Public Library,library,Nevada,3.0,6.0,10.0
+45,Public Library,library,New Bremen,3.0,6.0,10.0
+46,Public Library,library,New Knoxville,3.0,6.0,10.0
+47,Public Library,library,Prospect,3.0,6.0,10.0
+48,Public Library,library,Spencerville,3.0,6.0,10.0
+49,Public Library,library,Sycamore,3.0,6.0,10.0
+50,Public Library,library,Upper Sandusky,3.0,6.0,10.0
+51,Public Library,library,Wapakoneta,3.0,6.0,10.0
+52,Public Library,library,Waynesfield,3.0,6.0,10.0
+53,Delphos Senior Center,senior community,Delphos,7.0,7.0,7.0
+54,HardinCrest,senior community,Kenton,2.0,3.0,5.0
+55,HardinCrest ,senior community,Kenton,2.0,2.0,3.0
+56,Kenton Seton,senior community,Kenton,0.0,4.0,5.0
+57,Seton Kenton,senior community,Kenton,3.0,6.0,10.0
+58,Mercy Thrift Store,thrift store,Lima,0.0,1.0,4.0
+59,Restore,thrift store,Lima,3.0,3.0,9.0
