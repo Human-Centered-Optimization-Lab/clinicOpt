@@ -3,3 +3,5 @@ unicode
 PyQt6
 folium
 polars
+openpyxl
+seaborn
