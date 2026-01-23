@@ -18,8 +18,8 @@ conda install pip -y
 ```
 
 ## Install DESDEO 
-Follow the install directions for DESDEO found [here](https://desdeo.readthedocs.io/en/latest/howtoguides/installing/) to install DESDEO in your Anaconda environment. 
-1ee72385720217c11daea82b056fede685fbc603
+Follow the install directions for DESDEO found [here](https://desdeo.readthedocs.io/en/latest/howtoguides/installing/) to install DESDEO in your Anaconda environment. I've successfully used this exact [version  of DESDEO](https://github.com/industrial-optimization-group/DESDEO/tree/1ee72385720217c11daea82b056fede685fbc603).
+
 
 ## Install remaining Python dependencies
 
