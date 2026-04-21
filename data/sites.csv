@@ -1,24 +1,22 @@
 siteId,siteName,siteType,city
 0,Mercy Thrift Store,thrift store,Lima
 1,Lima Library,library,Lima
-2,Kenton Seton,senior community,Kenton
+2,Kenton Seton,senior living,Kenton
 3,Bluffton Library,library,Bluffton
 4,Lima ODB,charitable meal,Lima
 5,Alger Food Pantry,food pantry,Alger
-6,Saint Marks UMC,church,Lima
+6,Saint Marks UMC,charitable meal,Lima
 7,Dunkirk Dinner,charitable meal,Dunkirk
-8,HardinCrest ,senior community,Kenton
+8,HardinCrest,senior living,Kenton
 9,Alger Dinner,charitable meal,Alger
-10,Agape,food pantry;thrift store,Saint Marys
-11,DJ Kirk ,charitable meal,Dunkirk
-12,Kenton YMCA,gym,Kenton
-13,Apape,food pantry;thrift store,Saint Marys
-14,DJ Kirk,charitable meal,Dunkirk
-15,YMCA,gym,Kenton
-16,Christian Corner,food bank,Lima
-17,HardinCrest,senior community,Kenton
-18,HardinCrest,food pantry;thrift store,Kenton
-19,Seton Kenton,senior community,Kenton
-20,Delphos Senior Center,senior community,Delphos
-21,Restore,thrift store,Lima
-22,Wapak UCC,church,Wapakoneta
+10,Agape,thrift store,Saint Marys
+11,Kenton YMCA,gym,Kenton
+12,Christian Corner,food pantry,Lima
+15,Delphos Senior Center,senior center,Delphos
+16,Restore,thrift store,Lima
+17,Auglaize Co Council on Aging,senior center,Saint Marys
+18,community medical services,medical site,Lima
+19,Hardin Co BMV,public utility,Kenton
+20,Putnam Co YMCA,gym,Ottawa
+21,Wyandot Co Council on Aging,senior center,Upper Sandusky
+22,American Legion,public utility,Continental

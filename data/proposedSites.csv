@@ -1,19 +1,13 @@
 siteName,siteType,city
 Alger Dinner,charitable meal,Alger
-DJ Kirk,charitable meal,Dunkirk
-DJ Kirk ,charitable meal,Dunkirk
 Dunkirk Dinner,charitable meal,Dunkirk
 Lima ODB,charitable meal,Lima
-Saint Marks UMC,church,Lima
-Wapak UCC,church,Wapakoneta
+Saint Marks UMC,charitable meal,Lima
 Grace Clinics,clinic,Marion
-Christian Corner,food bank,Lima
 Alger Food Pantry,food pantry,Alger
-Agape,food pantry;thrift store,Saint Marys
-Apape,food pantry;thrift store,Saint Marys
-HardinCrest,food pantry;thrift store,Kenton
+Christian Corner,food pantry,Lima
 Kenton YMCA,gym,Kenton
-YMCA,gym,Kenton
+Putnam Co YMCA,gym,Ottawa
 Bluffton Library,library,Bluffton
 Lima Library,library,Lima
 Public Library,library,Ada
@@ -39,7 +33,6 @@ Public Library,library,Dunkirk
 Public Library,library,Glandorf
 Public Library,library,Kenton
 Public Library,library,La Rue
-Public Library,library,Leipsic
 Public Library,library,Lima
 Public Library,library,Marion
 Public Library,library,Minster
@@ -52,10 +45,14 @@ Public Library,library,Sycamore
 Public Library,library,Upper Sandusky
 Public Library,library,Wapakoneta
 Public Library,library,Waynesfield
-Delphos Senior Center,senior community,Delphos
-HardinCrest,senior community,Kenton
-HardinCrest ,senior community,Kenton
-Kenton Seton,senior community,Kenton
-Seton Kenton,senior community,Kenton
+community medical services,medical site,Lima
+Hardin Co BMV,public utility,Kenton
+American Legion,public utility,Continental
+Delphos Senior Center,senior center,Delphos
+Auglaize Co Council on Aging,senior center,Saint Marys
+Wyandot Co Council on Aging,senior center,Upper Sandusky
+HardinCrest,senior living,Kenton
+Kenton Seton,senior living,Kenton
+Agape,thrift store,Saint Marys
 Mercy Thrift Store,thrift store,Lima
 Restore,thrift store,Lima

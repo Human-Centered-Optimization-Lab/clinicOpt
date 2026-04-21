@@ -21,7 +21,7 @@ PF: Pareto front
 ├── proposedSites.csv               # Input to preprocessing 
 ├── sites.csv                       # Input to preprocessing
 ├── adjacencyMatrixDist.csv         # Input to preprocessing
-├── proposedSitesProcessed.csv      # Output of preprocessing
+├── proposedSitesProcessed.csv      # Output of preprocessing (DO NOT EDIT!)
 ├── cities.csv                    
 ├── city_distances.csv
 ├── events.csv
