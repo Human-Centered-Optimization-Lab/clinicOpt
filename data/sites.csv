@@ -1,22 +1,63 @@
-siteId,siteName,siteType,city
-0,Mercy Thrift Store,thrift store,Lima
-1,Lima Library,library,Lima
-2,Kenton Seton,senior living,Kenton
-3,Bluffton Library,library,Bluffton
-4,Lima ODB,charitable meal,Lima
-5,Alger Food Pantry,food pantry,Alger
-6,Saint Marks UMC,charitable meal,Lima
-7,Dunkirk Dinner,charitable meal,Dunkirk
-8,HardinCrest,senior living,Kenton
-9,Alger Dinner,charitable meal,Alger
-10,Agape,thrift store,Saint Marys
-11,Kenton YMCA,gym,Kenton
-12,Christian Corner,food pantry,Lima
-15,Delphos Senior Center,senior center,Delphos
-16,Restore,thrift store,Lima
-17,Auglaize Co Council on Aging,senior center,Saint Marys
-18,community medical services,medical site,Lima
-19,Hardin Co BMV,public utility,Kenton
-20,Putnam Co YMCA,gym,Ottawa
-21,Wyandot Co Council on Aging,senior center,Upper Sandusky
-22,American Legion,public utility,Continental
+siteId,siteName,siteType,city,timing,url ,phone
+0,Mercy Thrift Store,thrift store,Lima,,,
+1,Lima Library,library,Lima,,,
+2,Kenton Seton,senior living,Kenton,,,
+3,Bluffton Library,library,Bluffton,,,
+4,Lima ODB,charitable meal,Lima,,,
+5,Alger Food Pantry,food pantry,Alger,,,
+6,Saint Marks UMC,charitable meal,Lima,,,
+7,Dunkirk Dinner,charitable meal,Dunkirk,,,
+8,HardinCrest,senior living,Kenton,,,
+9,Alger Dinner,charitable meal,Alger,,,
+10,Agape,thrift store,Saint Marys,,,
+11,Kenton YMCA,gym,Kenton,,,
+12,Christian Corner,food pantry,Lima,"Meal Site Only Mon, Wed, and Fri 9am-1pm",,
+15,Delphos Senior Center,senior center,Delphos,,,
+16,Restore,thrift store,Lima,,,
+17,Auglaize Co Council on Aging,senior center,Saint Marys,,,
+18,community medical services,medical site,Lima,,,
+19,Hardin Co BMV,public utility,Kenton,,,
+20,Putnam Co YMCA,gym,Ottawa,,,
+21,Wyandot Co Council on Aging,senior center,Upper Sandusky,,,
+22,American Legion,public utility,Continental,,,
+23,St. Paul UCC,charitable meal,Saint Marys,"Every Thursday Except 1st Thursday, 4:30pm-5:15pm",,419-394-3811
+24,United Methodist Church,food pantry,Cridersville, Hours: Wed. & Thurs. 9am-12pm,https://cridersvilleumc.org/?subpages/food-pantry.shtml,419-645-4878
+25,Grace Church ,charitable meal,Saint Marys,"First, Third, and Fourth WEDNESDAYS each month 4pm ¨« 5:30pm",https://www.gracechurchstmarys.org/events,419-235-1382
+26,Impact Mt. Tabor UMC,food pantry,Wapakoneta,Third Tuesday 10am ¨« 4:30pm,https://www.facebook.com/people/Gutman-Mt-Tabor/100081097103356/,937-596-6549
+27,Mercy Unlimited,food pantry,Wapakoneta,Monday ¨« Friday: 9am-12pm,https://mercyunlimited.org/,419-738-3161
+28,Victory Center,food pantry,Wapakoneta,third Sat each month at Fairgrounds 10am ¨« 12pm,,937-403-1021
+29,Ada Food Pantry,food pantry,Ada,Tuesdays 4pm -6pm; Saturdays 10am ¨« 12pm,,419-634-5661
+30,Hardin Co Soup Kitchen,charitable meal,Kenton, Fourth Week each month Mon thru Fri 11am-1pm,,419-675-5236
+31,Helping Hands Outreach,charitable meal,Kenton,Mondays and Tuesdays 9am ¨« 2:30pm,https://www.facebook.com/p/Helping-Hands-Outreach-Ministries-100064590110856/,419-673-8650
+32,Kenton Full Gospel Bread of Life Food Pantry,food pantry,Kenton,Hours: Mondays 10am-12pm,,567-674-4228
+33,Neighborhood Opportunity Center Food Pantry,food pantry,Kenton,Wednesdays 2pm-5pm,,419-673-0729
+34,Allentown Food Pantry,food pantry,Elida,"Last Saturday of the month, 9:00 a.m. until 12:00 p.m.",,419-339-2558
+35,Churches United Pantry (CUP),food pantry,Lima,"Mon., Wed., and Thu. 12pm¨«3pm",,419-221-3243
+36,In Faith Ministry International,food pantry,Lima,Hours: First Wed of each month 11am-12pm,https://www.infaithministries.org/event-details/food-pantry,419-225-8871
+37,Neighborhood Relief Ministries,food pantry;thrift store,Lima,Monday thru Saturday 12pm-5pm,,419-999-4483
+38,One Church,food pantry,Lima,"THIRD THURSDAY of each month, 11am¨«1pm",https://onechurchlima.com/,419-999-1615
+39,Spencerville Food Pantry,food pantry,Spencerville,Third Thursday each month 4pm¨«6pm,https://spencervilletrinity.com/food-pantry,419-647-4451
+40,St. Vincent DePaul Food Pantry,food pantry,Lima,Wednesdays 10am-12pm,https://stcharleslima.org/ministries/outreach-commission/st-vincent-de-paul/,419-224-3570
+41,Veteran¨«s Food Pantry,food pantry,Lima,"Tue, Thu 1pm-3:45pm CLOSED on major holidays",https://www.facebook.com/VFPNWO/,419-224-5630
+42,West Ohio Food Fort,food pantry,Lima,Tuesdays and Thursdays 5pm-7pm,,419-236-0268
+43,Carey Food Pantry,food pantry,Carey,Wednesdays only 1pm -4pm,https://wyandothelps.org/directory/carey-food-pantry/,(419) 306-3584
+44,Open Door,food pantry,Upper Sandusky,Wed each month 10am ¨« 12pm,https://www.opendoorohio.org/,419-209-6736
+46,GoBus Lima Stop,bus stop ,Lima,,,
+47,GoBus Kenton Stop,bus stop ,Kenton,,,
+48,Greyhound Stop,bus stop ,Kenton,https://www.hoursguide.com/greyhound-bus-lines/kenton/4472735/,,
+49,Greyhound Stop,bus stop ,Lima,https://www.hoursguide.com/greyhound-bus-lines/lima/4472400/,,
+50,Greyhound Stop,bus stop ,Delphos,,,
+51,"St.Vincent de Paul-Marion Pantry",food pantry,Marion,"Tue, Wed: 10AM ¨« 12PM Thu: 3-5PM Fri, Sat: 10AM ¨« 12PM",https://www.svdpmarion.org/,740-386-6422
+52,Helping Hands Helping Others,charitable meal,Marion,Tuesdays and Thursdays 5-5:30,,1-866-607-6157
+53,Helping Hands Helping Others,food pantry,Marion,Fridays 4-6PM,https://www.facebook.com/HelpingHandsHelpingOthersInc/,1-866-607-6157
+
+
+
+
+
+
+
+
+
+
+
