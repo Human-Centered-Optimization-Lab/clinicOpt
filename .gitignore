@@ -3,8 +3,11 @@
 
 api_keys.py
 
+.claude/
+
 requirements.txt~
 .requirements.txt.un~
 
 __pycache__
 *~
+
