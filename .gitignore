@@ -1,5 +1,10 @@
 
 *.pkl
 
+api_keys.py
+
 requirements.txt~
 .requirements.txt.un~
+
+__pycache__
+*~

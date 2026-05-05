@@ -5,3 +5,6 @@ folium
 polars
 openpyxl
 seaborn
+openrouteservice
+pandas 
+numpy
