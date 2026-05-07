@@ -61,6 +61,14 @@ data/
 └── pf_*.pkl                        # Cached Pareto fronts from RPM runs
 ```
 
+### SVI data
+```
+references/
+├── Ohio_ZCTA.xlsx      # The source data for the SVI. Manually put into cities.csv
+└── SVI2022Documentation_ZCTA.pdf # Documentation for Ohio_ZCTA.xlsx
+```
+
+
 ### File descriptions
 
 - `MHC Trip Summary.xlsx`: Excel source data compiled into `sites.csv` and `events.csv`
